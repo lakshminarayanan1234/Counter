@@ -1,0 +1,49 @@
+*
+{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.heading1
+{
+    font-size: 3vw;
+    text-transform: capitalize;
+    font-weight: 700;
+    margin-top:20vw ;
+}
+
+
+#span
+{
+    display: flex;
+    justify-content: center;
+    align-items: start;
+    font-size: 5vw;
+}
+
+.decrease
+{
+    font-size: 0.6vw;
+    margin:0.1vw;
+    border: 2px solid black;
+    text-transform: uppercase;
+    font-weight: 700;
+}
+.rest
+{
+    font-size: 0.6vw;
+    margin:0.1vw;
+    border: 2px solid black;
+    text-transform: uppercase;
+    font-weight: 700;
+}
+
+.increase
+{
+    font-size: 0.6vw;
+    margin:0.1vw;
+    border: 2px solid black;
+    text-transform: uppercase;
+    font-weight: 700;
+}
